@@ -1,1 +1,2 @@
-We can 
+We can trigger a DHCP request on Windows with the command ipconfig /renew. 
+We can analyze the request www.youtube.com
